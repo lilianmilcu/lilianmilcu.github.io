@@ -8,7 +8,7 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://.com/vids/fnf.mp4",
+      "video": "https://drive.google.com/uc?id=1WW56yHQYb75lhXgTD6Um364vs7GcWVpV",
       "privacy": "https://lilianmilcu.github.io/privacy.html",
       
       "spancount": 1,
