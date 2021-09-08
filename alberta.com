@@ -42,7 +42,7 @@
       },
       
        
-      "alberta": [
+      "aberta": [
         [
           false,
           "Wac Vs Ocs",
