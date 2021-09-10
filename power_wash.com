@@ -1,27 +1,21 @@
     {
-      
       "show": true,
       "CheckR": true,
       "com": false,
       "published": false,
-      
       "version": 1,
       "newAppLink": "",
-      
       "video": "https://drive.google.com/uc?id=1WW56yHQYb75lhXgTD6Um364vs7GcWVpV",
       "privacy": "https://lilianmilcu.github.io/privacy.html",
-      
       "spancount": 1,
-      
       "guide": [
-        
         [
-          "Friday Night AutoBrawl",
-          "https://nabdfy.xyz/fridaynight1/friday_content3.png",
-          "Friday Night AutoBrawl is a singleplayer vehicular combat game with perma- permadeath, meaning when you're dead, you're dead forever. No second chances.----->>>10 unique enemies to survive: Fight your way through 10 unique enemies, including a forklift with an insta-killing fork, an armoured tuk tuk with a spiked club, and a monster truck with a flaming machete.------>>>>> Fast Paced, tactical combat: Get near an enemy to throw your lance, and drive over it to pick it up again. Simple to play but deceptively difficult to master.----->>>>>>One Chance: When you die, that's it, game over, and you are completely locked out of the game, never to play again"
+          "Power Wash",
+          "https://www.gamingtierlist.com/wp-content/uploads/2021/06/image-2-768x432.jpg",
+          "Power Wash Simulator is the latest in the niche yet ever growing mainstream of “common job simulation” games except this one is a bit more satisfying than some other titles, for sure. You’re equipped with your trusty power washer and the ability to change nozzles with a flick of your mouse wheel as you clean grim and cut away at graffiti. There is some interesting tricks to speed up your power wash, but one quick disclaimer: \n Power Wash Simulator is more of a relaxing jaunt through cleaning than an objective based game. You’re under no pressure to clean faster and there really isn’t anything beyond the super obvious “spray it with water” to get the most out of this game. This is a rare title I’d say it’s more fun to be slow and methodical than it would be to power through it, but we want to take a look at some ways to really improve your washing capability"
         ]
       ],
-      "showOnlyOpen":false,
+      "showOnlyOpen": false,
       "NativeCount": 3,
       "fan": false,
       "snf": "mix",
@@ -37,15 +31,12 @@
         "admb_inters": "ca-app-pub-3940256099942544/1033173712",
         "admb_native": "ca-app-pub-3940256099942544/2247696110"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3978659s",
         "unity_inters": "video"
       },
-      
-      
       "more": [
-       
         [
           "false",
           "https://www..com/com/lulubox_tips.png",
