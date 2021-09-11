@@ -1,3 +1,4 @@
+
     {
       "newAppLink": "",
       "version": 1,
@@ -41,19 +42,18 @@
         "unity_inters": "video"
       },
       
-       
+      
+      "tvliveremove": [
+        "Télé Maroc",
+        "https://player-api.new.livestream.com/accounts/27130247/events/8196478/broadcasts/212873574.secure.m3u8",
+        "https://www.telemaroc.tv/img/logo.png"
+      ],
       "aberta": [
         [
           false,
           "Wac Vs Ocs",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
           "https://tmssl.akamaized.net/images/wappen/big/6603.png?lm=1598369070"
-        ],
-        [
-          true,
-          "Messi PSG",
-          "https://drive.google.com/uc?id=10OLUmVfCL5sGhMBOCFq4mXu21Gw5XOg8",
-          "https://img.youtube.com/vi/5Z5AUS1sL4Q/maxresdefault.jpg"
         ],
         [
           false,
@@ -80,9 +80,9 @@
           "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
         ],
         [
-          false,
-          "ManU Vs ManCity",
-          "http://akamai2-mx.cdn.booyah.live/hls/250170/36385570.m3u8",
+          true,
+          "ManU Vs ",
+          "https://d18z7qd4lgwjkx.cloudfront.net/out/v1/5c3c5578207f4deda32a801106c0a37c/index_3.m3u8",
           "https://i.pinimg.com/originals/8e/f5/9d/8ef59dc3c90a3abd56c87a5901709132.jpg"
         ],
         [
@@ -212,7 +212,7 @@
           "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png"
         ], 
         [
-          "false",
+          false,
           "News 24",
           "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8",
           "https://cimoandroid.com/com/tv.png"
