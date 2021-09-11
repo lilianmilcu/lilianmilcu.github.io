@@ -48,7 +48,7 @@
           true,
           "Marseille Vs ",
           "http://13.yaciaptk.xyz/live/88824257/index.m3u8",
-          "https://tmssl.akamaized.net/images/wappen/big/6603.png?lm=1598369070"
+          ""
         ],
         [
           false,
