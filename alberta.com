@@ -50,6 +50,12 @@
       ],
       "aberta": [
         [
+          true,
+          "Marseille Vs ",
+          "http://13.yaciaptk.xyz/live/88824257/index.m3u8",
+          ""
+        ],
+        [
           false,
           "Wac Vs Ocs",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
@@ -116,13 +122,13 @@
           "https://i.pinimg.com/originals/78/98/af/7898af50d726a143dfa3a694051199c6.jpg"
         ],
         [
-          true,
+          false,
           "Juventus Vs ",
           "https://d1bqsu1s7yssdb.cloudfront.net/out/v1/f018be430003489fa0f05ae1d61132ff/index_3.m3u8",
           "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
         ],
         [
-          true,
+          false,
           "PSG Vs ",
           "https://d3las0o2fow45s.cloudfront.net/out/v1/c93aef40f5534dd1b42dc7d6e375d72e/index_3.m3u8",
           "https://i.pinimg.com/originals/8c/9a/e9/8c9ae9562df570c4bae22c8b8ebe27c1.png"
