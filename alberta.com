@@ -42,18 +42,13 @@
         "unity_inters": "video"
       },
       
-      
-      "tvliveremove": [
-        "Télé Maroc",
-        "https://player-api.new.livestream.com/accounts/27130247/events/8196478/broadcasts/212873574.secure.m3u8",
-        "https://www.telemaroc.tv/img/logo.png"
-      ],
+       
       "aberta": [
         [
           true,
           "Marseille Vs ",
           "http://13.yaciaptk.xyz/live/88824257/index.m3u8",
-          ""
+          "https://tmssl.akamaized.net/images/wappen/big/6603.png?lm=1598369070"
         ],
         [
           false,
