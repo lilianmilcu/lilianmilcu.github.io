@@ -74,12 +74,6 @@
           "https://1000logos.net/wp-content/uploads/2018/06/Internazionale-Logo.png"
         ],
         [
-          false,
-          "Juventus Vs Atalanta",
-          "https://video.xx.fbcdn.net/hvideo-frc-prn/_nc_ohc-FRH55gbBt8gAX-cgE8T/_nc_cat-100/v/r5pO9g4V_RTzHIv_5YBag/live-dash/dash-abr-ibr-audio/201840528275339_0.mpd?_nc_rl=AfDBC3gf7p5UTTzm&ms=m_CT&oh=0b5624bb96338cf1726b0caf5e298665&oe=5FDBB528",
-          "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
-        ],
-        [
           true,
           "ManU Vs ",
           "https://d18z7qd4lgwjkx.cloudfront.net/out/v1/5c3c5578207f4deda32a801106c0a37c/index_3.m3u8",
@@ -122,9 +116,15 @@
           "https://i.pinimg.com/originals/78/98/af/7898af50d726a143dfa3a694051199c6.jpg"
         ],
         [
-          false,
-          "PSG Vs MNP",
-          "https://aws-br.cdn.booyah.live/hls/1000019/35413350.m3u8",
+          true,
+          "Juventus Vs ",
+          "https://d1bqsu1s7yssdb.cloudfront.net/out/v1/f018be430003489fa0f05ae1d61132ff/index_3.m3u8",
+          "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
+        ],
+        [
+          true,
+          "PSG Vs ",
+          "https://d3las0o2fow45s.cloudfront.net/out/v1/c93aef40f5534dd1b42dc7d6e375d72e/index_3.m3u8",
           "https://i.pinimg.com/originals/8c/9a/e9/8c9ae9562df570c4bae22c8b8ebe27c1.png"
         ],
         [
