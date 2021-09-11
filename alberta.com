@@ -48,7 +48,7 @@
           true,
           "Marseille Vs ",
           "http://13.yaciaptk.xyz/live/88824257/index.m3u8",
-          ""
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png"
         ],
         [
           false,
