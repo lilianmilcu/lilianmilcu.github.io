@@ -45,7 +45,7 @@
        
       "aberta": [
         [
-          true,
+          false,
           "Marseille Vs ",
           "http://13.yaciaptk.xyz/live/88824257/index.m3u8",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png"
@@ -53,8 +53,8 @@
         [
           true,
           "Messi ",
-          "http://13.yaciaptk.xyz/live/88824257/index.m3u8",
-          "https://drive.google.com/uc?id=10OLUmVfCL5sGhMBOCFq4mXu21Gw5XOg8"
+          "https://drive.google.com/uc?id=10OLUmVfCL5sGhMBOCFq4mXu21Gw5XOg8",
+          "https://img.youtube.com/vi/5Z5AUS1sL4Q/maxresdefault.jpg"
         ],
         [
           false,
