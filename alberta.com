@@ -63,9 +63,9 @@
           "https://tmssl.akamaized.net/images/wappen/big/6603.png?lm=1598369070"
         ],
         [
-          false,
-          "Athletico Vs khE",
-          "http://103.145.12.195:8080/hls/streama145239/index.m3u8",
+          true,
+          "Athletico Vs ",
+          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
           "https://cdn.1min30.com/wp-content/uploads/2018/03/Embl%C3%A8me-Atletico-Madrid.jpg"
         ],
         [
@@ -99,9 +99,9 @@
           "https://www.as-goal.com/wp-content/uploads/2020/11/eng_manchester_city_v2-e1606399729910.png"
         ],
         [
-          false,
-          "Liverpool Vs Cri",
-          "https://video-mia.xx.fbcdn.net/hvideo-ash109/_nc_ohc-YSFghKr1BGIAX-FU7BP/_nc_cat-111/v/rw7I5vhx7PJHK0hJn70r6/live-dash/dash-abr-ibr-audio/195038685613447_0.mpd?_nc_rl=AfCLQIwQlVxWYcStLUY&lvp=1&oh=a9c4eab6f93d70f59e538086b5d63f63&oe=5FDF55FC",
+          true,
+          "Liverpool Vs ",
+          "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8",
           "https://i.pinimg.com/originals/bc/16/5d/bc165d74fa7c0a79a89ff1fcf5db2678.png"
         ],
         [
