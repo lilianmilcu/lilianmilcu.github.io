@@ -63,7 +63,7 @@
           "https://tmssl.akamaized.net/images/wappen/big/6603.png?lm=1598369070"
         ],
         [
-          true,
+          false,
           "Athletico Vs ",
           "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
           "https://cdn.1min30.com/wp-content/uploads/2018/03/Embl%C3%A8me-Atletico-Madrid.jpg"
@@ -133,6 +133,12 @@
           "PSG Vs ",
           "https://d3las0o2fow45s.cloudfront.net/out/v1/c93aef40f5534dd1b42dc7d6e375d72e/index_3.m3u8",
           "https://i.pinimg.com/originals/8c/9a/e9/8c9ae9562df570c4bae22c8b8ebe27c1.png"
+        ],
+        [
+          true,
+          "Milan Vs ",
+          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
+          "https://football-italia.net/wp-content/uploads/2020/09/FI_cresticons_Milan-300x300.png"
         ],
         [
           false,
