@@ -87,9 +87,9 @@
           "https://i.pinimg.com/originals/8e/f5/9d/8ef59dc3c90a3abd56c87a5901709132.jpg"
         ],
         [
-          false,
+          true,
           "RMA Vs Ath",
-          "https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/f66c9ac57cf0482ca54c5cdc86e68854/index4_1.m3u8",
+          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
           "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/548px-Logo_Real_Madrid.svg.png"
         ],
         [
@@ -99,7 +99,7 @@
           "https://www.as-goal.com/wp-content/uploads/2020/11/eng_manchester_city_v2-e1606399729910.png"
         ],
         [
-          true,
+          false,
           "Liverpool Vs ",
           "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
           "https://i.pinimg.com/originals/bc/16/5d/bc165d74fa7c0a79a89ff1fcf5db2678.png"
