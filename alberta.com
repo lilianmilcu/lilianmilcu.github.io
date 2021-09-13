@@ -21,8 +21,8 @@
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
       
-      "showopenad":true,
-      "admob": true,
+      "showopenad":false,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-2364109173540543/1068115722",
         "admb_openad": "ca-app-pub-2364109173540543/4032711485",
@@ -33,10 +33,10 @@
        
        
        "shownativerecycler":false,
-       "shownative":true,
+       "shownative":false,
       
       
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
