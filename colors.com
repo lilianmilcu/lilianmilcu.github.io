@@ -1,10 +1,9 @@
 
-
     {
       "newAppLink": "",
       "version": 1,
       "show": true,
-      "com": false,
+      "com": true,
       
       "CheckR":true,
       
@@ -12,24 +11,24 @@
       
       "spancount": 1,
           
-        "isGuide":true,
+        "isGuide":false,
         
       "fan": false,
-      "snf":"mix",
+      "snf":"nb",
       "adsfan": {
-        "fan_inters": "IMG_16_9_APP_INSTALL#147772497126061_147861650450479",
-        "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
-        "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
+        "fan_inters": "236879271577850_236879334911177",
+        "fan_native": "236879271577850_236879344911176",
+        "fan_native_banner": "236879271577850_236879348244509"
       },
       
       "showopenad":false,
       "admob": false,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-2467024233846885/2593251702",
-        "admb_openad": "ca-app-pub-2467024233846885/4705583184",
-        "admb_inters": "ca-app-pub-2467024233846885/9314572720",
-        "admb_rewarded_inters": "ca-app-pub-2467024233846885/9314572720",
-        "admb_native": "ca-app-pub-2467024233846885/4392105455"
+        "admb_banner": "ca-app-pub-7144089957930196/2138558779",
+        "admb_openad": "ca-app-pub-7144089957930196/8711705985",
+        "admb_inters": "ca-app-pub-7144089957930196/7198834839",
+        "admb_rewarded_inters": "ca-app-pub-7144089957930196/7198834839",
+        "admb_native": "ca-app-pub-7144089957930196/4597201157"
       },
       
        
@@ -37,14 +36,14 @@
        "shownative":false,
       
       
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
       },
       
       
-      "color_tv": [
+      "colors": [
         [
           false,
           "Marseille Vs ",
@@ -52,7 +51,7 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png"
         ],
         [
-          false,
+          true,
           "Messi ",
           "https://drive.google.com/uc?id=10OLUmVfCL5sGhMBOCFq4mXu21Gw5XOg8",
           "https://img.youtube.com/vi/5Z5AUS1sL4Q/maxresdefault.jpg"
@@ -172,7 +171,7 @@
           "https://www.cimoandroid.com/morocco/pictures/almaghribia.png"
         ],
         [
-          false,
+          true,
           "Arriyadia",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/arriyadia.png"
@@ -214,19 +213,19 @@
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_aa.jpg"
         ],
         [
-          false,
+          true,
           "Al Hadath",
           "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath/chunks.m3u8",
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_hadath.jpg"
         ],
         [
-          false,
+          true,
           "AlJazeera Documentary",
           "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
           "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png"
         ], 
         [
-          false,
+          true,
           "News 24",
           "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8",
           "https://cimoandroid.com/com/tv.png"
