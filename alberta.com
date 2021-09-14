@@ -21,22 +21,22 @@
         "fan_native_banner": "236879271577850_236879348244509"
       },
       
-      "showopenad":false,
-      "admob": false,
+      "showopenad":true,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-7144089957930196/2138558779",
-        "admb_openad": "ca-app-pub-7144089957930196/8711705985",
-        "admb_inters": "ca-app-pub-7144089957930196/7198834839",
-        "admb_rewarded_inters": "ca-app-pub-7144089957930196/7198834839",
-        "admb_native": "ca-app-pub-7144089957930196/4597201157"
+        "admb_banner": "ca-app-pub-2364109173540543/3108257020",
+        "admb_openad": "ca-app-pub-2364109173540543/5819354301",
+        "admb_inters": "ca-app-pub-2364109173540543/8497488530",
+        "admb_rewarded_inters": "ca-app-pub-2364109173540543/8497488530",
+        "admb_native": "ca-app-pub-2364109173540543/7529404681"
       },
-      
        
-       "shownativerecycler":false,
-       "shownative":false,
+       
+       "shownativerecycler":true,
+       "shownative":true,
       
       
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
@@ -87,7 +87,7 @@
           "https://1000logos.net/wp-content/uploads/2018/06/Internazionale-Logo.png"
         ],
         [
-          true,
+          false,
           "ManU Vs ",
           "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
           "https://i.pinimg.com/originals/8e/f5/9d/8ef59dc3c90a3abd56c87a5901709132.jpg"
@@ -147,9 +147,9 @@
           "https://i.pinimg.com/originals/8c/9a/e9/8c9ae9562df570c4bae22c8b8ebe27c1.png"
         ],
         [
-          false,
+          true,
           "Barça Vs EIB",
-          "http://vstream3.hadara.ps:8081/RayaHD_web/web1/chunks.m3u8",
+          "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
           "https://logos-world.net/wp-content/uploads/2020/04/Barcelona-Logo.png"
         ],
         [
