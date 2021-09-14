@@ -14,23 +14,23 @@
         "isGuide":false,
         
       "fan": false,
-      "snf":"mix",
+      "snf":"nb",
       "adsfan": {
-        "fan_inters": "IMG_16_9_APP_INSTALL#147772497126061_147861650450479",
-        "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
-        "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
+        "fan_inters": "236879271577850_236879334911177",
+        "fan_native": "236879271577850_236879344911176",
+        "fan_native_banner": "236879271577850_236879348244509"
       },
       
       "showopenad":false,
       "admob": false,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-2364109173540543/1068115722",
-        "admb_openad": "ca-app-pub-2364109173540543/4032711485",
-        "admb_inters": "ca-app-pub-2364109173540543/8755034059",
-        "admb_rewarded_inters": "ca-app-pub-2364109173540543/8755034059",
-        "admb_native": "ca-app-pub-2364109173540543/8079767700"
+        "admb_banner": "ca-app-pub-7144089957930196/2138558779",
+        "admb_openad": "ca-app-pub-7144089957930196/8711705985",
+        "admb_inters": "ca-app-pub-7144089957930196/7198834839",
+        "admb_rewarded_inters": "ca-app-pub-7144089957930196/7198834839",
+        "admb_native": "ca-app-pub-7144089957930196/4597201157"
       },
-       
+      
        
        "shownativerecycler":false,
        "shownative":false,
@@ -42,7 +42,7 @@
         "unity_inters": "video"
       },
       
-       
+      
       "aberta": [
         [
           false,
@@ -88,7 +88,7 @@
         ],
         [
           false,
-          "RMA Vs Ath",
+          "RMA Vs ",
           "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
           "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/548px-Logo_Real_Madrid.svg.png"
         ],
@@ -97,6 +97,12 @@
           "Man City Vs Sou ",
           "https://video-ams.xx.fbcdn.net/hvideo-ash115/_nc_ohc-MwKG8IwrWQ0AX_sJFt4/_nc_cat-111/v/ro81AgkcNfPeH_cttPmQt/live-dash/dash-abr-ibr-audio/116301106987017_0.mpd?_nc_rl=AfBOWH5LDsvjzoG9dTM&lvp=1&oh=74b11292fa69ba549788880ecf43133e&oe=5FDFAB8E",
           "https://www.as-goal.com/wp-content/uploads/2020/11/eng_manchester_city_v2-e1606399729910.png"
+        ],
+        [
+          false,
+          "Milan Vs ",
+          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
+          "https://football-italia.net/wp-content/uploads/2020/09/FI_cresticons_Milan-300x300.png"
         ],
         [
           false,
@@ -124,7 +130,7 @@
         ],
         [
           false,
-          "Juventus Vs ",
+          "Juventus Vs Atalanta",
           "https://d1bqsu1s7yssdb.cloudfront.net/out/v1/f018be430003489fa0f05ae1d61132ff/index_3.m3u8",
           "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
         ],
@@ -133,12 +139,6 @@
           "PSG Vs ",
           "https://d3las0o2fow45s.cloudfront.net/out/v1/c93aef40f5534dd1b42dc7d6e375d72e/index_3.m3u8",
           "https://i.pinimg.com/originals/8c/9a/e9/8c9ae9562df570c4bae22c8b8ebe27c1.png"
-        ],
-        [
-          false,
-          "Milan Vs ",
-          "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
-          "https://football-italia.net/wp-content/uploads/2020/09/FI_cresticons_Milan-300x300.png"
         ],
         [
           false,
@@ -171,7 +171,7 @@
           "https://www.cimoandroid.com/morocco/pictures/almaghribia.png"
         ],
         [
-          false,
+          true,
           "Arriyadia",
           "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
           "https://www.cimoandroid.com/morocco/pictures/arriyadia.png"
@@ -213,19 +213,19 @@
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_aa.jpg"
         ],
         [
-          false,
+          true,
           "Al Hadath",
           "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath/chunks.m3u8",
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_hadath.jpg"
         ],
         [
-          false,
+          true,
           "AlJazeera Documentary",
           "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
           "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png"
         ], 
         [
-          false,
+          true,
           "News 24",
           "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8",
           "https://cimoandroid.com/com/tv.png"
