@@ -22,7 +22,7 @@
       },
        
       "showopenad":true,
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-2467024233846885/3698928743",
         "admb_openad": "ca-app-pub-2467024233846885/2865742114",
