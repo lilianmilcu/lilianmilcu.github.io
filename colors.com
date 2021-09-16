@@ -3,7 +3,7 @@
       "newAppLink": "",
       "version": 1,
       "show": true,
-      "com": true,
+      "com": false,
       
       "CheckR":true,
       
@@ -11,7 +11,7 @@
       
       "spancount": 1,
           
-        "isGuide":false,
+        "isGuide":true,
         
       "fan": false,
       "snf":"nb",
