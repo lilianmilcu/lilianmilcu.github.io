@@ -21,19 +21,18 @@
         "fan_native_banner": "236879271577850_236879348244509"
       },
       
-      "showopenad":false,
-      "admob": false,
+      "showopenad":true,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-7144089957930196/2138558779",
-        "admb_openad": "ca-app-pub-7144089957930196/8711705985",
-        "admb_inters": "ca-app-pub-7144089957930196/7198834839",
-        "admb_rewarded_inters": "ca-app-pub-7144089957930196/7198834839",
-        "admb_native": "ca-app-pub-7144089957930196/4597201157"
+        "admb_banner": "ca-app-pub-2467024233846885/3442287187",
+        "admb_openad": "ca-app-pub-2467024233846885/2648080266",
+        "admb_inters": "ca-app-pub-2467024233846885/6454629189",
+        "admb_rewarded_inters": "ca-app-pub-2467024233846885/6454629189",
+        "admb_native": "ca-app-pub-2467024233846885/2129205511"
       },
-      
-       
+             
        "shownativerecycler":false,
-       "shownative":false,
+       "shownative":true,
       
       
       "unity": true,
@@ -225,7 +224,7 @@
           "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png"
         ], 
         [
-          true,
+          false,
           "News 24",
           "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8",
           "https://cimoandroid.com/com/tv.png"
