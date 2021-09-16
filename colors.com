@@ -20,15 +20,15 @@
         "fan_native": "236879271577850_236879344911176",
         "fan_native_banner": "236879271577850_236879348244509"
       },
-      
+       
       "showopenad":true,
       "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-2467024233846885/3442287187",
-        "admb_openad": "ca-app-pub-2467024233846885/2648080266",
-        "admb_inters": "ca-app-pub-2467024233846885/6454629189",
-        "admb_rewarded_inters": "ca-app-pub-2467024233846885/6454629189",
-        "admb_native": "ca-app-pub-2467024233846885/2129205511"
+        "admb_banner": "ca-app-pub-2467024233846885/3698928743",
+        "admb_openad": "ca-app-pub-2467024233846885/2865742114",
+        "admb_inters": "ca-app-pub-2467024233846885/3903491617",
+        "admb_rewarded_inters": "ca-app-pub-2467024233846885/3903491617",
+        "admb_native": "ca-app-pub-2467024233846885/5534754590"
       },
              
        "shownativerecycler":false,
