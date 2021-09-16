@@ -5,7 +5,9 @@
       "published": true,
       "version": 1,
       "newAppLink": "",
-      "video": "https://drive.google.com/uc?id=1WW56yHQYb75lhXgTD6Um364vs7GcWVpV",
+      
+      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "videos": "https://drive.google.com/uc?id=1WW56yHQYb75lhXgTD6Um364vs7GcWVpV",
       "privacy": "https://lilianmilcu.github.io/privacy.html",
       "spancount": 1,
       "guide": [
