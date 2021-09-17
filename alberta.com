@@ -59,7 +59,7 @@
         [
           true,
           "Messi ",
-          "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+          "https://drive.google.com/uc?id=1X0tmsiAdC9D58vKvpv58TJauZ5-3TtPt",
           "https://img.youtube.com/vi/5Z5AUS1sL4Q/maxresdefault.jpg"
         ],
         [
@@ -231,7 +231,7 @@
           "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png"
         ], 
         [
-          true,
+          false,
           "News 24",
           "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8",
           "https://cimoandroid.com/com/tv.png"
