@@ -33,7 +33,7 @@
         ]
       ],
       "showOnlyOpen": false,
-      "NativeCount": 1,
+      "NativeCount": 2,
       "fan": false,
       "snf": "mix",
       "adsfan": {
@@ -41,14 +41,14 @@
         "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-5257810426777299/7907016502",
-        "admb_openad": "ca-app-pub-5257810426777299/9151815419",
-        "admb_inters": "ca-app-pub-5257810426777299/9088236238",
-        "admb_native": "ca-app-pub-5257810426777299/4120008255"
+        "admb_banner": "ca-app-pub-9807264092456179/4255938345",
+        "admb_openad": "ca-app-pub-9807264092456179/5377448323",
+        "admb_inters": "ca-app-pub-9807264092456179/4242661751",
+        "admb_native": "ca-app-pub-9807264092456179/6690529992"
       },
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "video"
