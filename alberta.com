@@ -5,7 +5,7 @@
       "show": true,
       "com": true,
       
-      "CheckR":true,
+      "CheckR":false,
       
       "STORENAME": " ",
       
@@ -33,7 +33,7 @@
        
        
        "shownativerecycler":false,
-       "shownative":true,
+       "shownative":false,
             
       "unity": false,
       "adsunity": {
