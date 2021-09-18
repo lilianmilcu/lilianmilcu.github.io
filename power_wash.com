@@ -1,6 +1,6 @@
     {
       "show": true,
-      "CheckR": false,
+      "CheckR": true,
       "com": true,
       "published": true,
       "version": 1,
@@ -43,10 +43,10 @@
       },
       "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-2364109173540543/8009229919",
-        "admb_openad": "ca-app-pub-2364109173540543/8253945952",
-        "admb_inters": "ca-app-pub-2364109173540543/4029143379",
-        "admb_native": "ca-app-pub-2364109173540543d/4506272634"
+        "admb_banner": "ca-app-pub-5257810426777299/7907016502",
+        "admb_openad": "ca-app-pub-5257810426777299/9151815419",
+        "admb_inters": "ca-app-pub-5257810426777299/9088236238",
+        "admb_native": "ca-app-pub-5257810426777299/4120008255"
       },
       "unity": false,
       "adsunity": {
