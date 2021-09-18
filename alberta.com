@@ -5,7 +5,7 @@
       "show": true,
       "com": true,
       
-      "CheckR":false,
+      "CheckR":true,
       
       "STORENAME": " ",
       
@@ -22,7 +22,7 @@
       },
       
       "showopenad":true,
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-3503534924917767/4323010626",
         "admb_openad": "ca-app-pub-3503534924917767/8984310367",
@@ -35,7 +35,7 @@
        "shownativerecycler":false,
        "shownative":false,
             
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
