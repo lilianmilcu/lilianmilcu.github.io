@@ -43,7 +43,7 @@
       
       "aberta": [
         [
-          true,
+          false,
           "Marseille Vs ",
           "http://7.amaniyouhra.xyz/live/10011244/index.m3u8",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png"
@@ -55,13 +55,13 @@
           "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_Sevilla_FC.svg/1200px-Logo_Sevilla_FC.svg.png"
         ],
         [
-          true,
+          false,
           "Espanyol Vs ",
           "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
           "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Rcd_espanyol_logo.svg/1200px-Rcd_espanyol_logo.svg.png"
         ],
         [
-          true,
+          false,
           "Messi ",
           "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_3.m3u8",
           "https://img.youtube.com/vi/5Z5AUS1sL4Q/maxresdefault.jpg"
@@ -85,7 +85,7 @@
           "http://yallah-kooora.com/admin_panel/the_stream/the_stream/upload/1629631759_Screenshot%202021-08-22%20at%2012.12.27.png"
         ],
         [
-          true,
+          false,
           "Leicester City VS ",
           "https://d3k4qmnvsniwcd.cloudfront.net/out/v1/a6609e8b5b784920a96a9a15bf01f0ba/index_3.m3u8",
           "https://upload.wikimedia.org/wikipedia/ar/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png"
@@ -97,19 +97,19 @@
           "https://1000logos.net/wp-content/uploads/2018/06/Internazionale-Logo.png"
         ],
         [
-          true,
+          false,
           "Roma Vs ",
           "https://d3k4qmnvsniwcd.cloudfront.net/out/v1/a6609e8b5b784920a96a9a15bf01f0ba/index_3.m3u8",
           "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png"
         ],
         [
-          true,
+          false,
           "ManU Vs ",
           "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_3.m3u8",
           "https://i.pinimg.com/originals/8e/f5/9d/8ef59dc3c90a3abd56c87a5901709132.jpg"
         ],
         [
-          true,
+          false,
           "RMA Vs ",
           "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_4.m3u8",
           "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/548px-Logo_Real_Madrid.svg.png"
@@ -121,7 +121,7 @@
           "https://www.as-goal.com/wp-content/uploads/2020/11/eng_manchester_city_v2-e1606399729910.png"
         ],
         [
-          true,
+          false,
           "Milan Vs Juve",
           "http://16.amaniyouhra.xyz/live/14066007/index.m3u8",
           "https://football-italia.net/wp-content/uploads/2020/09/FI_cresticons_Milan-300x300.png"
@@ -151,19 +151,19 @@
           "https://i.pinimg.com/originals/fd/f4/49/fdf4497e1b8a70547185fae69d219728.jpg"
         ],
         [
-          true,
+          false,
           "Chelsea Vs toth",
           "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8",
           "https://i.pinimg.com/originals/78/98/af/7898af50d726a143dfa3a694051199c6.jpg"
         ],
         [
-          true,
+          false,
           "Juventus Vs ",
           "http://16.amaniyouhra.xyz/live/14066007/index.m3u8",
           "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
         ],
         [
-          true,
+          false,
           "PSG Vs Lyon",
           "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_3.m3u8",
           "https://i.pinimg.com/originals/8c/9a/e9/8c9ae9562df570c4bae22c8b8ebe27c1.png"
