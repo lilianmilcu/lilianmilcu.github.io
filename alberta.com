@@ -163,15 +163,21 @@
           "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
         ],
         [
+          true,
+          "Napoli Vs ",
+          "https://d15a04d98fdp5k.cloudfront.net/out/v1/b3f246079dfc48b3babcb4288bb47ba8/index_4.m3u8",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SSC_Neapel.svg/1200px-SSC_Neapel.svg.png"
+        ],
+        [
           false,
           "PSG Vs Lyon",
           "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_3.m3u8",
           "https://i.pinimg.com/originals/8c/9a/e9/8c9ae9562df570c4bae22c8b8ebe27c1.png"
         ],
         [
-          false,
-          "Barça Vs Bayer",
-          "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
+          true,
+          "Barça Vs ",
+          "https://admdn1ta.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
           "https://logos-world.net/wp-content/uploads/2020/04/Barcelona-Logo.png"
         ],
         [
@@ -191,60 +197,6 @@
           "Chariqa Sport",
           "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8",
           "https://img.youtube.com/vi/eC2FCTh6PCw/maxresdefault.jpg"
-        ],
-        [
-          false,
-          "Medi1tv",
-          "http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/playlist.m3u8",
-          "https://www.cimoandroid.com/morocco/pictures/medi1tv.png"
-        ],
-        [
-          false,
-          "2m monde",
-          "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8",
-          "https://www.cimoandroid.com/morocco/pictures/my2m.jpg"
-        ],
-        [
-          false,
-          "Al Aoula",
-          "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8",
-          "https://www.cimoandroid.com/morocco/pictures/alaoula.png"
-        ],
-        [
-          false,
-          "Al Maghribia",
-          "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
-          "https://www.cimoandroid.com/morocco/pictures/almaghribia.png"
-        ],
-        [
-          false,
-          "Arriyadia",
-          "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8",
-          "https://www.cimoandroid.com/morocco/pictures/arriyadia.png"
-        ],
-        [
-          false,
-          "Assadissa",
-          "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8",
-          "https://www.cimoandroid.com/morocco/pictures/assadissa.png"
-        ],
-        [
-          false,
-          "Arrabiaa",
-          "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
-          "https://www.cimoandroid.com/morocco/pictures/attakafiya.png"
-        ],
-        [
-          false,
-          "AlAoula Laayoune",
-          "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
-          "https://www.cimoandroid.com/morocco/pictures/laayoune.png"
-        ],
-        [
-          false,
-          "Tamazight",
-          "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
-          "https://www.cimoandroid.com/morocco/pictures/tamazight.png"
         ],
         [
           false,
