@@ -11,7 +11,7 @@
       
       "spancount": 1,
           
-        "isGuide":true,
+        "isGuide":false,
         
       "fan": false,
       "snf":"nb",
@@ -22,13 +22,13 @@
       },
        
       "showopenad":true,
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-2467024233846885/3698928743",
-        "admb_openad": "ca-app-pub-2467024233846885/2865742114",
-        "admb_inters": "ca-app-pub-2467024233846885/3903491617",
-        "admb_rewarded_inters": "ca-app-pub-2467024233846885/3903491617",
-        "admb_native": "ca-app-pub-2467024233846885/5534754590"
+        "admb_banner": "ca-app-pub-7144089957930196/7954417263",
+        "admb_openad": "ca-app-pub-7144089957930196/4015172255",
+        "admb_inters": "ca-app-pub-7144089957930196/9922105058",
+        "admb_rewarded_inters": "ca-app-pub-7144089957930196/9922105058",
+        "admb_native": "ca-app-pub-7144089957930196/6641335593"
       },
              
        "shownativerecycler":false,
