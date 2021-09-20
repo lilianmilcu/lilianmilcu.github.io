@@ -164,7 +164,7 @@
           "https://i.pinimg.com/originals/87/23/eb/8723ebed3acc67ddecb0021b32865e43.jpg"
         ],
         [
-          true,
+          false,
           "Napoli Vs ",
           "https://d15a04d98fdp5k.cloudfront.net/out/v1/b3f246079dfc48b3babcb4288bb47ba8/index_4.m3u8",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SSC_Neapel.svg/1200px-SSC_Neapel.svg.png"
@@ -176,7 +176,7 @@
           "https://i.pinimg.com/originals/8c/9a/e9/8c9ae9562df570c4bae22c8b8ebe27c1.png"
         ],
         [
-          true,
+          false,
           "Barça Vs ",
           "https://admdn1ta.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
           "https://logos-world.net/wp-content/uploads/2020/04/Barcelona-Logo.png"
@@ -222,12 +222,6 @@
           "AlJazeera Documentary",
           "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
           "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png"
-        ], 
-        [
-          false,
-          "News 24",
-          "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8",
-          "https://cimoandroid.com/com/tv.png"
         ]
       ]
     }
