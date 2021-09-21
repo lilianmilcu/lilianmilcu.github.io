@@ -74,9 +74,9 @@
           "https://tmssl.akamaized.net/images/wappen/big/6603.png?lm=1598369070"
         ],
         [
-          false,
+          true,
           "Athletico Vs ",
-          "https://d3k4qmnvsniwcd.cloudfront.net/out/v1/a6609e8b5b784920a96a9a15bf01f0ba/index_4.m3u8",
+          "https://d15a04d98fdp5k.cloudfront.net/out/v1/b3f246079dfc48b3babcb4288bb47ba8/index_3.m3u8",
           "https://cdn.1min30.com/wp-content/uploads/2018/03/Embl%C3%A8me-Atletico-Madrid.jpg"
         ],
         [
@@ -92,9 +92,9 @@
           "https://upload.wikimedia.org/wikipedia/ar/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png"
         ],
         [
-          false,
+          true,
           "Inter Vs ",
-          "https://d1sa3vjf6750ed.cloudfront.net/out/v1/de31d14d6b244d6da539bfc9f8a3ab37/index_3.m3u8",
+          "https://admdn1ta.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
           "https://1000logos.net/wp-content/uploads/2018/06/Internazionale-Logo.png"
         ],
         [
