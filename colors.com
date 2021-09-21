@@ -3,7 +3,7 @@
       "newAppLink": "",
       "version": 1,
       "show": true,
-      "com": false,
+      "com": true,
       
       "CheckR":true,
       
@@ -31,7 +31,7 @@
         "admb_native": "ca-app-pub-7144089957930196/6641335593"
       },
              
-       "shownativerecycler":false,
+       "shownativerecycler":true,
        "shownative":true,
       
       
@@ -94,7 +94,7 @@
         [
           true,
           "Inter Vs ",
-          "https://admdn1ta.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+          "https://d3k4qmnvsniwcd.cloudfront.net/out/v1/a6609e8b5b784920a96a9a15bf01f0ba/index_4.m3u8",
           "https://1000logos.net/wp-content/uploads/2018/06/Internazionale-Logo.png"
         ],
         [
@@ -116,9 +116,9 @@
           "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/548px-Logo_Real_Madrid.svg.png"
         ],
         [
-          false,
+          true,
           "Man City Vs Lap ",
-          "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
+          "https://d3s0kqtvaxsiq2.cloudfront.net/out/v1/5694f9e59eea46cf8452cda3dbb14c9f/index_4.m3u8",
           "https://www.as-goal.com/wp-content/uploads/2020/11/eng_manchester_city_v2-e1606399729910.png"
         ],
         [
@@ -128,9 +128,9 @@
           "https://football-italia.net/wp-content/uploads/2020/09/FI_cresticons_Milan-300x300.png"
         ],
         [
-          false,
+          true,
           "Liverpool Vs ",
-          "https://d1wazjfrcic0dn.cloudfront.net/out/v1/2d6c8d168f7f47fba2a0761a504e010e/index_3.m3u8",
+          "https://d3rmntxyvr9780.cloudfront.net/out/v1/77efb8efb34d4b38a8d7f890cfbdcbba/index_4.m3u8",
           "https://i.pinimg.com/originals/bc/16/5d/bc165d74fa7c0a79a89ff1fcf5db2678.png"
         ],
         [
