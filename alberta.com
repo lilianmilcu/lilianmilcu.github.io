@@ -31,7 +31,7 @@
         "admb_native": "ca-app-pub-9807264092456179/1164118954"
       },
        
-       "shownativerecycler":true,
+       "shownativerecycler":false,
        "shownative":true,
             
       "unity": false,
@@ -73,7 +73,7 @@
           "https://tmssl.akamaized.net/images/wappen/big/6603.png?lm=1598369070"
         ],
         [
-          true,
+          false,
           "Athletico Vs ",
           "https://d15a04d98fdp5k.cloudfront.net/out/v1/b3f246079dfc48b3babcb4288bb47ba8/index_3.m3u8",
           "https://cdn.1min30.com/wp-content/uploads/2018/03/Embl%C3%A8me-Atletico-Madrid.jpg"
@@ -91,7 +91,7 @@
           "https://upload.wikimedia.org/wikipedia/ar/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png"
         ],
         [
-          true,
+          false,
           "Inter Vs ",
           "https://d3k4qmnvsniwcd.cloudfront.net/out/v1/a6609e8b5b784920a96a9a15bf01f0ba/index_4.m3u8",
           "https://1000logos.net/wp-content/uploads/2018/06/Internazionale-Logo.png"
@@ -115,7 +115,7 @@
           "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/548px-Logo_Real_Madrid.svg.png"
         ],
         [
-          true,
+          false,
           "Man City Vs Lap ",
           "https://d3s0kqtvaxsiq2.cloudfront.net/out/v1/5694f9e59eea46cf8452cda3dbb14c9f/index_4.m3u8",
           "https://www.as-goal.com/wp-content/uploads/2020/11/eng_manchester_city_v2-e1606399729910.png"
@@ -127,7 +127,7 @@
           "https://football-italia.net/wp-content/uploads/2020/09/FI_cresticons_Milan-300x300.png"
         ],
         [
-          true,
+          false,
           "Liverpool Vs ",
           "https://d3rmntxyvr9780.cloudfront.net/out/v1/77efb8efb34d4b38a8d7f890cfbdcbba/index_4.m3u8",
           "https://i.pinimg.com/originals/bc/16/5d/bc165d74fa7c0a79a89ff1fcf5db2678.png"
