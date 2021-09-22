@@ -5,7 +5,7 @@
       "show": true,
       "com": true,
       
-      "CheckR":true,
+      "CheckR":false,
       
       "STORENAME": " ",
       
@@ -22,7 +22,7 @@
       },
        
       "showopenad":true,
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-7144089957930196/7954417263",
         "admb_openad": "ca-app-pub-7144089957930196/4015172255",
@@ -35,9 +35,9 @@
        "shownative":true,
       
       
-      "unity": false,
+      "unity": true,
       "adsunity": {
-        "unity_id": "3667089s",
+        "unity_id": "3667089",
         "unity_inters": "video"
       },
       
@@ -182,19 +182,19 @@
           "https://logos-world.net/wp-content/uploads/2020/04/Barcelona-Logo.png"
         ],
         [
-          true,
+          false,
           "AD Sports 3",
           "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
           "https://img.youtube.com/vi/2fhBvH_-tNM/maxresdefault.jpg"
         ],
         [
-          true,
+          false,
           "AD Sports 2",
           "https://admdn5ta.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8",
           "https://img.youtube.com/vi/TmICalJ9gI8/maxresdefault.jpg"
         ],
         [
-          true,
+          false,
           "Chariqa Sport",
           "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8",
           "https://img.youtube.com/vi/eC2FCTh6PCw/maxresdefault.jpg"
@@ -218,7 +218,7 @@
           "https://www.alhadath.net/.resources/aa-templating-lm/webresources/gfx/live_hadath.jpg"
         ],
         [
-          true,
+          false,
           "AlJazeera Documentary",
           "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
           "https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png"
