@@ -3,14 +3,14 @@
     {
       
       "show": true,
-      "CheckR": true,
+      "CheckR": false,
       "com": true,
       "published": true,
       
       "version": 1,
       "newAppLink": "",
       
-      "video": "http://7.amaniyouhra.xyz/live/10011244/index.m3u8",
+      "video": "",
       "privacy": "https://lilianmilcu.blogspot.com/p/privacy.html",
       "mail":"lilianmilcu",
       
@@ -71,7 +71,7 @@
       
      "anticipatefantrouble":false,
 
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-7144089957930196/2893662275",
         "admb_inters": "ca-app-pub-7144089957930196/6888747604",
@@ -80,7 +80,7 @@
         "admb_openad": "ca-app-pub-7144089957930196/1048714672"
       },
       
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"
