@@ -1,12 +1,12 @@
     {
       "show": true,
-      "CheckR": true,
+      "CheckR": false,
       "com": true,
       "published": true,
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "video": "",
       "videos": "https://drive.google.com/uc?id=1WW56yHQYb75lhXgTD6Um364vs7GcWVpV",
       "privacy": "https://lilianmilcu.github.io/privacy.html",
       "spancount": 1,
@@ -41,14 +41,14 @@
         "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-9807264092456179/4255938345",
         "admb_openad": "ca-app-pub-9807264092456179/5377448323",
         "admb_inters": "ca-app-pub-9807264092456179/4242661751",
         "admb_native": "ca-app-pub-9807264092456179/6690529992"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "video"
